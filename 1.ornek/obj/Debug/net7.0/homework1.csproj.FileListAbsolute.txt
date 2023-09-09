@@ -1,0 +1,15 @@
+C:\Users\ayseg\OneDrive\Masaüstü\console\homework1\obj\Debug\net7.0\homework1.csproj.AssemblyReference.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\homework1\obj\Debug\net7.0\homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayseg\OneDrive\Masaüstü\console\homework1\obj\Debug\net7.0\homework1.AssemblyInfoInputs.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\homework1\obj\Debug\net7.0\homework1.AssemblyInfo.cs
+C:\Users\ayseg\OneDrive\Masaüstü\console\homework1\obj\Debug\net7.0\homework1.csproj.CoreCompileInputs.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\homework1\bin\Debug\net7.0\homework1.exe
+C:\Users\ayseg\OneDrive\Masaüstü\console\homework1\bin\Debug\net7.0\homework1.deps.json
+C:\Users\ayseg\OneDrive\Masaüstü\console\homework1\bin\Debug\net7.0\homework1.runtimeconfig.json
+C:\Users\ayseg\OneDrive\Masaüstü\console\homework1\bin\Debug\net7.0\homework1.dll
+C:\Users\ayseg\OneDrive\Masaüstü\console\homework1\bin\Debug\net7.0\homework1.pdb
+C:\Users\ayseg\OneDrive\Masaüstü\console\homework1\obj\Debug\net7.0\homework1.dll
+C:\Users\ayseg\OneDrive\Masaüstü\console\homework1\obj\Debug\net7.0\refint\homework1.dll
+C:\Users\ayseg\OneDrive\Masaüstü\console\homework1\obj\Debug\net7.0\homework1.pdb
+C:\Users\ayseg\OneDrive\Masaüstü\console\homework1\obj\Debug\net7.0\homework1.genruntimeconfig.cache
+C:\Users\ayseg\OneDrive\Masaüstü\console\homework1\obj\Debug\net7.0\ref\homework1.dll
